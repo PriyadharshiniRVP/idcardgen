@@ -1,14 +1,28 @@
 # ID Card Generator with Student Management System
 
-## Features
-- Student Database Management
-- Id card Generation
--  UsedOOPSconcepts to implement the controller,service and entity modules.
+## About
+A web-based application for managing student records and generating ID cards. The system allows administrators to perform CRUD operations on student data and maintain records in a PostgreSQL database.
 
-## Technologies Used:
-- Java SpringBoot
+## Features
+- Add new students
+- View student records
+- Update student information
+- Delete student records
+- Generate ID cards
+- Database integration using PostgreSQL
+
+## Technologies Used
+- Java
+- Spring Boot
+- Spring Data JPA
+- PostgreSQL
 - HTML
 - CSS
-- Javascript
+- JavaScript
 
+## Concepts Used
+- Object-Oriented Programming (OOP)
+- REST APIs
+- CRUD Operations
+- Database Connectivity
   
