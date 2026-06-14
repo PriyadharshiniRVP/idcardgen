@@ -58,7 +58,7 @@ public class Person {
         return photopath;
     }
 
-    public void setPhotopath(){
+    public void setPhotopath(String photopath){
         this.photopath=photopath;
     }
 
