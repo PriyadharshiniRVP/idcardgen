@@ -11,6 +11,9 @@ A web-based application for managing student records and generating ID cards. Th
 - Generate ID cards
 - Database integration using PostgreSQL
 
+## Architecture
+<img src="architecture.pg" alt="arch">
+
 ## Technologies Used
 - Java
 - Spring Boot
