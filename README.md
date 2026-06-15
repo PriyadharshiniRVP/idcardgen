@@ -12,7 +12,7 @@ A web-based application for managing student records and generating ID cards. Th
 - Database integration using PostgreSQL
 
 ## Architecture
-<img src="architecture.pg" alt="arch">
+![arch diagram](architecture.jpg)
 
 ## Technologies Used
 - Java
